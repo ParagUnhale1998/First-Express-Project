@@ -23,7 +23,7 @@ Here Is The Simple Explainations of This Code For New One !
 14) The "index.ejs" template renders the home page with a title, includes the "style.ejs" partial, and displays a download link.
 15) The "products.ejs" template renders the products page with a title, includes the "style.ejs" and "scripts.ejs" partials, and has a placeholder for dynamic content.
 
-)In summary, the code sets up an Express server with routing and template rendering using EJS. It defines routes for the home page, about page, and products page. It also includes partial templates for navigation, styles, and scripts to reuse common elements across multiple pages.
+In summary, the code sets up an Express server with routing and template rendering using EJS. It defines routes for the home page, about page, and products page. It also includes partial templates for navigation, styles, and scripts to reuse common elements across multiple pages.
 
 
 ![image](https://github.com/ParagUnhale1998/First-Express-Project/blob/main/Thumbnail.png)
